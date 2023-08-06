@@ -1,0 +1,4 @@
+
+
+class CollectionOfTetrominoes(object):
+    pass

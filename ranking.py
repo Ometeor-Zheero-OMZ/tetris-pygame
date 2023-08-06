@@ -1,0 +1,4 @@
+
+
+class ScoreRanking(object):
+    pass
